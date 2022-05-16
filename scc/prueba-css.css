@@ -1,0 +1,21 @@
+main .w-100 {
+  height: 400px;
+  width: 300px;
+  margin: 10px; }
+
+main .intro, main .intro2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-style: italic; }
+
+main .intro2 {
+  color: red; }
+
+footer .contacto .btn--facebook {
+  background-color: blue; }
+
+footer .contacto .btn--instagram {
+  background-color: brown; }
+
+footer .contacto .btn--youtube {
+  background-color: red; }

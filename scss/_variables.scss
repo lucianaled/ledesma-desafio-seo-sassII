@@ -1,2 +1,12 @@
-$img-tamaño: 400px 500px, 
-$border 1px
+$colors: (
+    facebook: blue, 
+    instagram: brown, 
+    youtube: red
+);
+
+@mixin sizes($alto, $ancho, $margin) {
+    height: $alto;
+    width: $ancho;
+    margin: $margin;
+}
+
